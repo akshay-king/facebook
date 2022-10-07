@@ -1,0 +1,83 @@
+.header{
+    background: #d1b30a;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.logo{
+    width: 50%;
+    padding-top: 25px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: rgb(253, 31, 31);
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-label1:hover{
+    color: rgb(125, 139, 0);
+}
+.login-controls{
+    margin: 10px;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    border-color: #29487d;
+    height: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.sub-btn:hover{
+    background: red;
+}
+.left-section{
+    width: 50%;
+    background: linear-gradient(white,rgb(202, 196, 196));
+    float: left;
+    height: 60%;
+}
+.right-section{
+    width: 50%;
+    float: left;
+    background-color: white;
+    height: 100%;
+    margin: 0;
+    padding-top: 0%;
+}
+.image{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 0%;
+    margin: 0px;
+    padding-left: 0px;
+}
+.login-label1{
+    color: #fff;
+    font-size: 11px;
+    
+}
+.create{
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 50px;
+    
+}
+.main-body{
+    height: 60%;
+}
